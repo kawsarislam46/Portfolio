@@ -1,0 +1,755 @@
+/* // X-Small devices (portrait phones, less than 576px) */
+/* // No media query for `xs` since this is the default in Bootstrap */
+@media (min-width: 320px) and (max-width: 575px) {
+  /* siteBar area start */
+
+  .sitebar_imge {
+    padding-top: 20px;
+  }
+
+  .sitebar_imge img {
+    height: 5rem;
+    width: 5.5rem !important;
+    padding: 0;
+  }
+
+  .item_text h2 {
+    font-size: 10px;
+    padding-top: 25px;
+  }
+
+  .item_text h4 {
+    padding-top: 10px;
+    font-size: 8px;
+  }
+
+  .age h4 {
+    font-size: 6px;
+    height: 8px;
+  }
+
+  .line_item {
+    margin-top: 15px;
+  }
+
+  .age p {
+    font-size: 6px;
+    font-weight: 400;
+  }
+
+  .age p span {
+    font-size: 6px;
+  }
+
+  .area_text h4 {
+    font-size: 14px;
+  }
+
+  .text_languages img {
+    padding-top: 5px;
+    height: 20px;
+    width: 17px;
+    margin-left: 8px;
+  }
+
+  .text_languages p {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  .text_Skills img {
+    height: 15px;
+    width: 18px;
+  }
+
+  .text_Skills p {
+    font-size: 10px;
+  }
+
+  .Computer img {
+    padding-top: 2px;
+    height: 10px;
+    width: 8px;
+  }
+
+  .Computer p {
+    padding-top: 4px;
+    font-size: 4px;
+  }
+
+  .item_button a {
+    font-size: 8px;
+    padding: 14px 8px;
+  }
+
+  .item_button a i {
+    font-size: 7px;
+  }
+
+  .sitebar {
+    height: 1088px;
+  }
+
+  /* siteBar area end */
+
+  /* center_area start */
+
+  .center_photo img {
+    width: 60% !important;
+  }
+
+  .center_text {
+    margin-right: 2px !important;
+  }
+
+  .center_text h2 {
+    font-size: 11px;
+  }
+
+  .center_text p {
+    font-size: 8px;
+  }
+
+  .center_photo {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .center_text a {
+    margin-top: 10px !important;
+    font-size: 14px;
+    padding: 10px 20px;
+  }
+
+  .header_part_contant {
+    flex-direction: column-reverse !important;
+  }
+
+  .center_text {
+    margin: 20px 0;
+  }
+
+  .service h4 {
+    font-size: 23px;
+  }
+
+  .service p {
+    font-size: 5px;
+  }
+
+  .development h2 {
+    font-size: 12px;
+  }
+
+  .development h4 {
+    font-size: 8px;
+  }
+
+  .development h2 {
+    font-size: 12px;
+  }
+
+  .design h4 {
+    font-size: 8px;
+  }
+
+  .sound_design h2 {
+    font-size: 12px;
+  }
+
+  .sound_design h4 {
+    font-size: 8px;
+  }
+
+  .game_design h2 {
+    font-size: 12px;
+  }
+
+  .game_design h4 {
+    font-size: 8px;
+  }
+
+  .graphy h2 {
+    font-size: 12px;
+  }
+
+  .graphy h4 {
+    font-size: 8px;
+  }
+
+  .advertising h2 {
+    font-size: 12px;
+  }
+
+  .advertising h4 {
+    font-size: 8px;
+  }
+
+  .advertising h5 {
+    font-size: 8px;
+  }
+
+  .connon_heading h4 {
+    font-size: 18px;
+  }
+
+  .connon_heading p {
+    font-size: 5px;
+  }
+
+  .recommendations-item img {
+    margin-right: -5px;
+  }
+
+  .recommendations-item h4 {
+    font-size: 12px;
+  }
+
+  .recommendations-item h5 {
+    font-size: 7px;
+  }
+
+  .photo_text h3 {
+    font-size: 13px;
+  }
+
+  .photo_text h6 {
+    font-size: 10px;
+  }
+
+  .Education_text h4 {
+    font-size: 8px;
+  }
+
+  .Education_text h5 {
+    font-size: 10px;
+  }
+
+  .Education_item h4 {
+    font-size: 6px;
+  }
+
+  .Education_item h5 {
+    font-size: 8px;
+  }
+
+  .item a {
+    margin: 1px;
+    font-size: 5px;
+  }
+
+  .item_Rectangle img {
+    margin-top: 0;
+  }
+
+  .text_img h4 {
+    font-size: 8px;
+  }
+
+  .text_img p {
+    font-size: 7px;
+  }
+
+  .logo_text h5 {
+    font-size: 10px;
+  }
+
+  .leave_text h4 {
+    font-size: 16px;
+  }
+
+  .table h5 {
+    font-size: 7px;
+  }
+
+  #btnn {
+    height: 35px;
+    width: 111px;
+    font-size: 10px;
+  }
+
+  .leave_text h4 {
+    font-size: 16px;
+  }
+
+  .location h5 {
+    padding-top: 12px;
+    font-size: 7px;
+  }
+
+  .location p {
+    font-size: 7px;
+  }
+
+  .location_item h5 {
+    font-size: 7px;
+  }
+
+  .location_item p {
+    font-size: 7px;
+  }
+
+  .footer_text h5 {
+    font-size: 7px;
+  }
+
+  /* center_area end */
+
+  /* right area start */
+
+  .text_home_text{
+    width: 95%;
+    padding: 7px 10px;
+}
+
+.rightbar {
+  height: 1088px;
+}
+
+
+}
+
+/* right area end */
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767px) {
+  /* siteBar area start */
+
+  .sitebar_imge {
+    padding-top: 20px;
+  }
+
+  .sitebar_imge img {
+    height: 121px;
+    padding: 14px;
+  }
+
+  .item_text h2 {
+    font-size: 14px;
+    padding-top: 15px;
+  }
+
+  .item_text h4 {
+    padding-top: 10px;
+    font-size: 10px;
+  }
+
+  .age h4 {
+    font-size: 9px;
+    height: 10px;
+  }
+
+  .line_item {
+    margin-top: 15px;
+  }
+
+  .age p {
+    font-size: 7px;
+    font-weight: 400;
+  }
+
+  .age p span {
+    font-size: 7px;
+  }
+
+  .area_text h4 {
+    font-size: 15px;
+  }
+
+  .Computer img {
+    padding-top: 2px;
+    height: 17px;
+    width: 16px;
+  }
+
+  .Computer p {
+    padding-top: 4px;
+    font-size: 7px;
+  }
+
+  .item_button a {
+    font-size: 12px;
+    padding: 14px 10px;
+  }
+
+  .item_button a i {
+    font-size: 9px;
+  }
+
+  /* siteBar area end */
+
+  /* center_area start */
+
+  .header_part_contant {
+    flex-direction: column-reverse !important;
+  }
+
+  .center_photo {
+    width: 100%;
+    text-align: center;
+  }
+
+  .center_photo img {
+    width: 20vw !important;
+  }
+
+  .center_text h2 {
+    font-size: 26px;
+  }
+
+  .center_text p {
+    font-size: 10px;
+  }
+
+  .center_text {
+    margin-top: 50px;
+  }
+
+  .service p {
+    font-size: 10px;
+  }
+
+  .connon_heading p {
+    font-size: 10px;
+  }
+
+  .Education_text h4 {
+    font-size: 15px;
+  }
+
+  .item a {
+    margin: 6px;
+    font-size: 10px;
+  }
+
+  /* center_area end */
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px) {
+  /* siteBar area start */
+
+  .sitebar_imge {
+    padding-top: 20px;
+  }
+
+  .sitebar_imge img {
+    height: 170px;
+    padding: 20px;
+  }
+
+  .item_text h2 {
+    font-size: 18px;
+    padding-top: 15px;
+  }
+
+  .age h4 {
+    font-size: 12px;
+    height: 14px;
+  }
+
+  .age p {
+    font-size: 11px;
+    font-weight: 400;
+  }
+
+  .age p span {
+    font-size: 11px;
+  }
+
+  .Computer p {
+    padding-top: 4px;
+    font-size: 11px;
+  }
+
+  .item_button a {
+    padding: 14px 26px;
+  }
+
+  /* siteBar area end */
+
+  /* center_area start */
+
+  .header_part_contant {
+    flex-direction: column-reverse !important;
+  }
+
+  .center_photo {
+    width: 100%;
+    text-align: center;
+  }
+
+  .center_photo img {
+    width: 20vw !important;
+  }
+
+  .center_text h2 {
+    font-size: 30px;
+  }
+
+  .center_text {
+    margin-top: 50px;
+  }
+
+  .center_text p {
+    font-size: 14px;
+  }
+
+  .development h2 {
+    font-size: 14px;
+  }
+
+  .development h4 {
+    font-size: 11px;
+  }
+
+  .design h4 {
+    font-size: 8px;
+  }
+
+  .sound_design h4 {
+    font-size: 9px;
+  }
+
+  .graphy h2 {
+    padding-top: 25px;
+    font-size: 12px;
+  }
+
+  .graphy h4 {
+    padding-top: 2px;
+    font-size: 8px;
+  }
+
+  .game_design h2 {
+    padding-top: 22px;
+    font-size: 12px;
+  }
+
+  .game_design h4 {
+    padding-top: 2px;
+    font-size: 7px;
+  }
+
+  .advertising h2 {
+    padding-top: 30px;
+    font-size: 20px;
+  }
+
+  .advertising h4 {
+    padding-top: 15px;
+    font-size: 8px;
+  }
+
+  .recommendations-item img {
+    margin-right: -7px;
+  }
+
+  .recommendations-item h4 {
+    font-size: 10px;
+  }
+
+  .recommendations-item h5 {
+    font-size: 7px;
+  }
+
+  .photo_text h3 {
+    font-size: 5px;
+  }
+
+  .photo_text h6 {
+    font-size: 4px;
+  }
+
+  .Education_item h4 {
+    font-size: 10px;
+  }
+
+  .Education_text h4 {
+    font-size: 11px;
+  }
+
+  .Education_item h5 {
+    font-size: 10px;
+  }
+
+  .Education_text h5 {
+    font-size: 13px;
+  }
+
+  .Certificate h5 {
+    font-size: 13px;
+  }
+
+  .item a {
+    margin: 6px;
+    font-size: 14px;
+  }
+
+  .text_img h4 {
+    font-size: 6px;
+  }
+
+  .text_img p {
+    font-size: 6px;
+  }
+
+  .logo_text h5 {
+    font-size: 5px;
+  }
+
+  .logo_text a i {
+    font-size: 4px;
+  }
+
+  .leave_text h4 {
+    font-size: 17px;
+  }
+
+  .table h5 {
+    font-size: 14px;
+  }
+
+  .location h5 {
+    padding-top: 21px;
+    font-size: 9px;
+  }
+
+  .location p {
+    padding-top: 22px;
+    font-size: 7px;
+  }
+
+  .location_item h5 {
+    padding-top: 20px;
+    font-size: 9px;
+  }
+
+  .location_item p {
+    padding-top: 20px;
+    font-size: 7px;
+  }
+
+  /* center_area end */
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* siteBar area start */
+
+  .sitebar_imge img {
+    height: 217px;
+    padding: 24px;
+  }
+
+  /* siteBar area end */
+
+  /* center_area start */
+
+  .center_text h2 {
+    font-size: 32px;
+  }
+
+  .center_text p {
+    font-size: 12px;
+  }
+
+  .center_photo {
+    width: 238.72px;
+    margin-top: 10px;
+  }
+
+  .game_design h4 {
+    font-size: 10px;
+  }
+
+  .game_design h2 {
+    font-size: 11px;
+  }
+
+  .graphy h4 {
+    font-size: 10px;
+  }
+
+  .graphy h2 {
+    font-size: 11px;
+  }
+
+  .advertising h4 {
+    font-size: 12px;
+  }
+
+  .recommendations-item img {
+    margin-right: 7px;
+  }
+
+  .recommendations-item h5 {
+    font-size: 10px;
+  }
+
+  .photo_text h3 {
+    font-size: 11px;
+  }
+
+  .photo_text h6 {
+    font-size: 9px;
+  }
+
+  .Education_item h4 {
+    font-size: 17px;
+  }
+
+  .item a {
+    margin: 24px;
+    font-size: 16px;
+  }
+
+  .text_img h4 {
+    font-size: 12px;
+  }
+
+  .text_img p {
+    font-size: 11px;
+  }
+
+  .logo_text h5 {
+    font-size: 10px;
+  }
+
+  .logo_text a i {
+    font-size: 7px;
+  }
+
+  .leave_text h4 {
+    font-size: 27px;
+  }
+
+  .location p {
+    padding-top: 13px;
+    font-size: 11px;
+  }
+
+  .location p {
+    padding-top: 26px;
+    font-size: 11px;
+  }
+
+  .location h5 {
+    padding-top: 24px;
+    font-size: 18px;
+  }
+
+  .location_item h5 {
+    padding-top: 8px;
+    font-size: 18px;
+  }
+
+  .location_item p {
+    padding-top: 11px;
+    font-size: 12px;
+  }
+
+  /* center_area end */
+}
